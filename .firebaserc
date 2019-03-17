@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "miscs-randd"
+  },
+  "targets": {
+    "miscs-randd": {
+      "hosting": {
+        "simenyan": [
+          "public"
+        ]
+      }
+    }
+  }
+}
